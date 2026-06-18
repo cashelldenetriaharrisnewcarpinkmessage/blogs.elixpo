@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">cashelldenetriaharris
 
 <img src="public/base-logo.png" alt="LixBlogs Logo" width="80" />
 
@@ -9,7 +9,7 @@
 A modern blogging platform with a rich block editor, AI writing assistant,<br />
 real-time collaboration, and organizations — all on the edge.
 
-<br />
+cashelldenetriaharrisnotes<br />
 
 [![Live](https://img.shields.io/badge/Live-blogs.elixpo.com-9b7bf7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blogs.elixpo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elixpo/lixblogs)
@@ -23,15 +23,15 @@ real-time collaboration, and organizations — all on the edge.
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![BlockNote](https://img.shields.io/badge/BlockNote-Editor-9b7bf7?style=flat-square)](https://blocknotejs.org)
 
-</div>
+</div>cashelldenetriaharrisnotes
 
-<br />
+<br />cashelldenetriaharrisnotes
 
-<div align="center">
+<div align="center">cashelldenetriaharrisnotes
 <img src="public/og-image.jpg" alt="LixBlogs Banner" width="100%" style="border-radius: 12px;" />
-</div>
+</div>cashelldenetriaharrisnotes
 
-<br />
+<br />cashelldenetriaharrisnotes
 
 ## What is LixBlogs?
 
